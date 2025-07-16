@@ -1,0 +1,64 @@
+{
+  "objects": [
+    {
+      "package": {
+        "name": "com.stresslevelzero.static-batching",
+        "version": "1.0.1",
+        "description": "A complete reimplementation of the mesh combination and generation process done by static batching. Spatially sorts renderers in each combined mesh to ensure maximum efficiency, and also provides new options like 32 bit indicies and grouping volumes",
+        "links": {
+          "npm": "com.stresslevelzero.static-batching"
+        }
+      }
+    },
+    {
+      "package": {
+        "name": "com.unity.shadergraph",
+        "version": "8148.12.1-8",
+        "description": "The Shader Graph package adds a visual Shader editing tool to Unity. You can use this tool to create Shaders in a visual way instead of writing code. Specific render pipelines can implement specific graph features. Currently, both the High Definition Rendering Pipeline and the Universal Rendering Pipeline support Shader Graph.",
+        "links": {
+          "npm": "com.unity.shadergraph"
+        }
+      }
+    },
+    {
+      "package": {
+        "name": "com.unity.render-pipelines.core",
+        "version": "8148.0.3-1",
+        "description": "SLZ's Modified SRP Core",
+        "links": {
+          "npm": "com.unity.render-pipelines.core"
+        }
+      }
+    },
+    {
+      "package": {
+        "name": "com.unity.render-pipelines.universal",
+        "version": "8148.0.7-4",
+        "description": "SLZ's modified URP",
+        "links": {
+          "npm": "com.unity.render-pipelines.universal"
+        }
+      }
+    },
+    {
+      "package": {
+        "name": "com.stresslevelzero.marrow.sdk",
+        "version": "1.2.0",
+        "description": "Marrow Software Development Kit. Used to create content with Pallets and Crates for Marrow infused games.",
+        "links": {
+          "npm": "com.stresslevelzero.marrow.sdk"
+        }
+      }
+    },
+    {
+      "package": {
+        "name": "com.stresslevelzero.marrow.backlot",
+        "version": "1.2.0",
+        "description": "The Marrow Backlot for Marrow Content",
+        "links": {
+          "npm": "com.stresslevelzero.marrow.backlot"
+        }
+      }
+    }
+  ]
+}
