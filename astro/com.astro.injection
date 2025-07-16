@@ -1,0 +1,28 @@
+{
+  "name": "com.astro.injection",
+  "versions": {
+    "1.2.0": {
+      "name": "com.astro.injection",
+      "version": "1.2.0",
+      "displayName": "Injection SDK",
+      "description": "Marrow Software Development Kit. Used to create content with Pallets and Crates for Marrow infused games.",
+      "unity": "2021.3",
+      "dependencies": {},
+      "keywords": [
+        "astro",
+        "injection",
+        "bone"
+      ],
+      "author": {
+        "name": "StressLevelZero",
+        "email": "contact@stresslevelzero.com",
+        "url": "http://www.stresslevelzero.com/"
+      },
+      "unityRelease": "16f1",
+      "hideInEditor": false,
+      "dist": {
+        "tarball": "https://github.com/sp4dedevelopment/astroregistry/raw/refs/heads/main/astro/com.astro.injection.tar.gz"
+      }
+    }
+  }
+}
